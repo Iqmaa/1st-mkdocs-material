@@ -1,14 +1,14 @@
-name: ci
+name: ci 
 on:
   push:
     branches:
-      - master
+      - master 
       - main
 permissions:
   contents: write
 jobs:
   deploy:
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Configure Git Credentials
