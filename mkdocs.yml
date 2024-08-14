@@ -49,8 +49,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-#     - pymdownx.emoji: 
-#       emoji_index: 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      # emoji_generator: !!Python/name:materialx.emoji.to_svg
 
 copyright: 
   Copyright &copy; 2024 <a href="https://github.com/iqmaa" target="_blank" rel="noopener"> Hikmah Olawore </a>
