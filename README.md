@@ -1,2 +1,3 @@
-# 1st-mkdocs-material
+# Draftpro Documentation
+
 A documentation using mkdocs
