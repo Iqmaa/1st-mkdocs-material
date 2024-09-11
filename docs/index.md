@@ -1,29 +1,21 @@
-# Homepage
+# What is Draftpro ?
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Draftpro is an app that uses the chatpgt API to help you create better and more engaging content for your social media needs.
 
-## Code Annotation Example
+![alt text](docs/Images/Draftpro demo 2.jpg)
 
-### code blocks
+## What is in the docs?
 
-i'll put code here
+In this docs, you'll learn how to download the draftpro app, understand and properly use the available features and how best to write a draft to maximise your content
 
-code with title
+## Who can use DraftPro?
 
-```py title="random.py"
-def myfunction
-```
+Anyone !
 
-code with line numbers
+DraftPro isn't only for content creators to optimise their post, it is for the general public. Everyone uses social media, and a lot of people post on a continuous basis.
 
-```py linenums="1"
-def myfunction
-```
+Using Draftpro ensures that all these posts are optimised, which makes your posts more engaging and grammaticaly pleasing.
 
-highlighted code
+## Getting Help
 
-```py hl_lines="2 3"
-def myfunction
-    for  i in range(len(items)):
-        print(i)
-```
+If you have any complaints, enquiries, or unanswered questions not in this docs, feel free to contact the draftpro team on gmail(link) 
