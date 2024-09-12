@@ -2,7 +2,7 @@
 
 Draftpro is an app that uses the chatpgt API to help you create better and more engaging content for your social media needs.
 
-![alt text](docs/Images/Draftpro demo 2.jpg)
+![Demo](docs/Images/Draftpro demo 2.jpg)
 
 ## What is in the docs?
 
