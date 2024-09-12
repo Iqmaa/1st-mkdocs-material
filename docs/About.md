@@ -6,7 +6,7 @@ To get started using this app, go to playstore or simply click on this link to d
 
 To start using draftpro right away, you should already have a pre-written draft you would like to upgrade. Upon opening the Draftpro app you will be met with an interface that prompts you to 'Add Draft'
 
-![Draftpro](docs/Images/Draftpro demo1.jpg)
+<img src="https://github.com/Iqmaa/Draftpro-Docs/blob/main/docs/Images/Draftpro%20demo1.jpg" width="200"/>
 
 Input your draft in the text box and submit to get the edited version. You will get thre different versions of the edited graph to choose from and use.
 
