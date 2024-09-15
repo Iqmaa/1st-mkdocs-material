@@ -1,3 +1,3 @@
 # Draftpro Documentation
 
-A documentation using mkdocs
+See Docs here - https://iqmaa.github.io/Draftpro-Docs/ 
